@@ -22,25 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Researcher
+    company: KAUST, Chemical Kinetics and Laser Sensors Laboratory
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Thuwal, Saudi Arabia
+    date_start: 'June 2021'
+    date_end: 'Present'
     description: |2-
-        Responsibilities include:
+        Projects Include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * HCN Laser Diagnostics in Mid-Infrared
+        * Advanced Frequency Comb Diagnostics
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Market Research Analyst
+    company: Frontida Records
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Los Angeles, California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
