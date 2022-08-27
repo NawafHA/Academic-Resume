@@ -67,6 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-I am an MSc student in Mechanical Engineering at KAUST, advised by Prof. Aamir Farooq at the Chemical Kinetics and Laser Sensors Laboratory. Pre iously, I did my undergraduate studies at the University of Southern California, where I worked with Prof. Fengqi You at the Process-Energy-Environmental Systems Engineering (PEESE) lab. My research interests include laser diagnostics, clean thermal energy and soft robotics. 
+I am an MSc student in Mechanical Engineering at KAUST, advised by Prof. Aamir Farooq at the Chemical Kinetics and Laser Sensors Laboratory. Pre iously, I did my undergraduate studies at the University of Southern California, where I worked with Prof. Costas Synolakis. My research interests include laser diagnostics, clean thermal energy and soft robotics. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
