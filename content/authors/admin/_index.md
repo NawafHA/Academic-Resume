@@ -6,11 +6,11 @@ title: Nawaf Abualsaud
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MS Student - Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: King Abdullah University of Science and Technology (KAUST)
+  - name: KAUST
     url: https://www.kaust.edu.sa/en
 
 # Short bio (displayed in user profile at end of posts)
