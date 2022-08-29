@@ -43,6 +43,7 @@ experience:
     date_start: '2019-05-06'
     date_end: '2020-05-06'
     description: Taught electronic engineering and researched semiconductor physics.
+    
   - title: Undergraduate Research Assistant
     company: UC San Diego, Center for Extreme Events Research
     company_url: ''
@@ -51,6 +52,7 @@ experience:
     date_start: '2020-06-06'
     date_end: '2021-08-06'
     description: Taught electronic engineering and researched semiconductor physics.
+    
   - title: Undergraduate Research Assistant
     company: University of Tokyo
     company_url: ''
