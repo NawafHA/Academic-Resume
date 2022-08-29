@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Thuwal, Saudi Arabia
     date_start: '2021-06-06'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         Projects Include:
         
