@@ -38,7 +38,7 @@ experience:
   - title: Undergraduate Research Assistant
     company: The University of Southern California
     company_url: ''
-    company_logo: org-x
+    company_logo: usc
     location: Los Angeles, California
     date_start: '2019-05-06'
     date_end: '2020-05-06'
