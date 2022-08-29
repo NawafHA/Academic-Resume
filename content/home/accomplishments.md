@@ -39,7 +39,6 @@ item:
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - 
   - certificate_url: https://kgsp.kaust.edu.sa
     organization_url: certificate_url:
     date_start: '2022-06-01'
