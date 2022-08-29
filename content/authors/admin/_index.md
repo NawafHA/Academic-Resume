@@ -42,7 +42,7 @@ social:
     link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: [https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ](https://scholar.google.com/citations?hl=en&user=7r7NzmMAAAAJ)
+    link: https://scholar.google.com/citations?hl=en&user=7r7NzmMAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
