@@ -41,7 +41,7 @@ item:
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - 
   - certificate_url: https://kgsp.kaust.edu.sa
-  - organization_url: certificate_url:
+    organization_url: certificate_url:
     date_start: '2022-06-01'
     description: 'A highly selective, full-tuition-and-expenses scholarship, awarded to few outstanding Saudi students.'
     organization: KAUST
