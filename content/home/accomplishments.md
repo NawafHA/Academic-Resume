@@ -43,6 +43,7 @@ item:
     date_start: '2022-06-01'
     description: 'A highly selective, full-tuition-and-expenses scholarship, awarded to few outstanding Saudi students.'
     organization: KAUST
+    organization_logo: org-gc
     title: 'KAUST Gifted Student Program'
     url: ''
 
