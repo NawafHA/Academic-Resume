@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Thuwal, Saudi Arabia
-    date_start: 'Jan 2021'
+    date_start: '06-06-2021'
     date_end: 'Present'
     description: |2-
         Projects Include:
@@ -40,8 +40,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Los Angeles, California
-    date_start: 'Jun 2021'
-    date_end: 'Aug 2022'
+    date_start: '06-06-2021'
+    date_end: '06-06-2022'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
