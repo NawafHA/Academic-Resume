@@ -35,13 +35,31 @@ experience:
         * HCN Laser Diagnostics in Mid-Infrared
         * Advanced Frequency Comb Diagnostics
 
-  - title: Market Research Analyst
-    company: Frontida Records
+  - title: Undergraduate Research Assistant
+    company: The University of Southern California
     company_url: ''
     company_logo: org-x
     location: Los Angeles, California
-    date_start: '2021-06-06'
-    date_end: '2021-06-06'
+    date_start: '2019-05-06'
+    date_end: '2020-05-06'
+    description: Taught electronic engineering and researched semiconductor physics.
+    
+    - title: Undergraduate Research Assistant
+    company: UC San Diego, Center for Extreme Events Research
+    company_url: ''
+    company_logo: org-x
+    location: San Diego, California
+    date_start: '2020-06-06'
+    date_end: '2021-08-06'
+    description: Taught electronic engineering and researched semiconductor physics.
+    
+    - title: Undergraduate Research Assistant
+    company: University of Tokyo
+    company_url: ''
+    company_logo: org-x
+    location: Tokyo, Japan
+    date_start: '2021-05-06'
+    date_end: '2021-07-06'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
