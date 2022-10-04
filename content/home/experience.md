@@ -42,7 +42,7 @@ experience:
     location: Los Angeles, California
     date_start: '2019-05-06'
     date_end: '2020-05-06'
-    description:  
+    description:  []
    
     
   - title: Undergraduate Research Assistant
@@ -52,12 +52,13 @@ experience:
     location: San Diego, California
     date_start: '2020-06-06'
     date_end: '2021-08-06'
-    description:  
-    Formulated machine-learning algorithms that applied proven regression techniques on a carbon/epoxy composite failure envelope dataset
-which performed very accurately to the experimental data up to 92 percent of the Dme.
-• Reviewed and evaluated overall performance of each method and highlighted the strengths and weaknesses of various techniques for
-structural engineering applicaDons.
-• Produced a convoluDonal neural network algorithm as a means to detect crack pixels on a large dataset of cracked pavement which
+    description: 
+    |-
+        *Formulated machine-learning algorithms that applied proven regression techniques on a carbon/epoxy composite failure envelope dataset
+which performed very accurately to the experimental data up to 92 percent of the time.
+*Reviewed and evaluated overall performance of each method and highlighted the strengths and weaknesses of various techniques for
+structural engineering applications.
+*Produced a convoluDonal neural network algorithm as a means to detect crack pixels on a large dataset of cracked pavement which
 outperformed previous algorithms by over 60 percent.
     
   - title: Undergraduate Research Assistant
@@ -67,9 +68,9 @@ outperformed previous algorithms by over 60 percent.
     location: Tokyo, Japan
     date_start: '2021-05-06'
     date_end: '2021-07-06'
-    description: 
-•  Examined and analyzed the required performance of carbon fiber reinforced thermoplastics (CFRP) as a sustainable solution for high demand.
-• Liaised with industry professionals and graduate researchers to garner experience with developments of CFRP in the automobile industry.
+    description: |2-
+  *Examined and analyzed the required performance of carbon fiber reinforced thermoplastics (CFRP) as a sustainable solution for high demand.
+  *Liaised with industry professionals and graduate researchers to garner experience with developments of CFRP in the automobile industry.
 
 design:
   columns: '2'
