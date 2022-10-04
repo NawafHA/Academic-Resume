@@ -48,7 +48,7 @@ experience:
   - title: Undergraduate Research Assistant
     company: UC San Diego, Center for Extreme Events Research
     company_url: ''
-    company_logo: org-x
+    company_logo: ucsd.png
     location: San Diego, California
     date_start: '2020-06-06'
     date_end: '2021-08-06'
@@ -63,7 +63,7 @@ outperformed previous algorithms by over 60 percent.
   - title: Undergraduate Research Assistant
     company: University of Tokyo
     company_url: ''
-    company_logo: org-x
+    company_logo: todai.png
     location: Tokyo, Japan
     date_start: '2021-05-06'
     date_end: '2021-07-06'
