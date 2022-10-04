@@ -63,7 +63,7 @@ outperformed previous algorithms by over 60 percent.
   - title: Undergraduate Research Assistant
     company: University of Tokyo
     company_url: ''
-    company_logo: todai
+    company_logo: today
     location: Tokyo, Japan
     date_start: '2021-05-06'
     date_end: '2021-07-06'
