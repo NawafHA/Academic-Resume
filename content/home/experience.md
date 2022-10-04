@@ -53,7 +53,7 @@ experience:
     date_start: '2020-06-06'
     date_end: '2021-08-06'
     description: 
-    |-
+    |2-
  *Formulated machine-learning algorithms that applied proven regression techniques on a carbon/epoxy composite failure envelope dataset
 *Reviewed and evaluated overall performance of each method and highlighted the strengths and weaknesses of various techniques for
 structural engineering applications.
