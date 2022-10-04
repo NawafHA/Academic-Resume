@@ -27,7 +27,7 @@ item:
   - certificate_url: https://www.edx.org](https://kgsp.kaust.edu.sa/
     date_start: '2022-06-01'
     description: 'A highly selective, full-tuition-and-expenses scholarship, awarded to few outstanding Saudi students.'
-    organization: KAUST
+    organization: kaust
     icon: org-gc
     title: 'KAUST Gifted Student Program'
     url: 'https://kgsp.kaust.edu.sa/'
