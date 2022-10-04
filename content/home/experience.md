@@ -54,8 +54,7 @@ experience:
     date_end: '2021-08-06'
     description: 
     |-
-        *Formulated machine-learning algorithms that applied proven regression techniques on a carbon/epoxy composite failure envelope dataset
-which performed very accurately to the experimental data up to 92 percent of the time.
+ *Formulated machine-learning algorithms that applied proven regression techniques on a carbon/epoxy composite failure envelope dataset
 *Reviewed and evaluated overall performance of each method and highlighted the strengths and weaknesses of various techniques for
 structural engineering applications.
 *Produced a convoluDonal neural network algorithm as a means to detect crack pixels on a large dataset of cracked pavement which
