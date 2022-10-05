@@ -45,7 +45,7 @@ social:
     link: https://scholar.google.com/citations?hl=en&user=7r7NzmMAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/NawafHA
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/nawafhaa/
