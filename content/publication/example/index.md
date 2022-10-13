@@ -36,7 +36,7 @@ publication_types: ['1']
 publication: In *CLEO Conference*
 publication_short: In *Optica*
 
-a
+
 
 # Summary. An optional shortened abstract.
 
