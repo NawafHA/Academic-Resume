@@ -32,8 +32,6 @@ item:
     title: 'KAUST Gifted Student Program'
     url: 'https://kgsp.kaust.edu.sa/'
 
-design:
-  columns: '2'
 
 item:
 
