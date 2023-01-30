@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-items:
+item:
 
   - certificate_url: https://kgsp.kaust.edu.sa/
     date_start: '2022-06-01'
@@ -31,14 +31,6 @@ items:
     icon: org-gc
     title: 'KAUST Gifted Student Program'
     url: 'https://kgsp.kaust.edu.sa/'
-  - certificate_url: https://digitalx.undp.org/frontida-records_1/
-    date_start: '2022-01-01'
-    description: ' Among the 100 out of 4,000 international solutions selected by UNDP to Improve Healthcare Worldwide.'
-    organization: United Nations Development Programme
-    icon: org-gc
-    title: 'United Nations Digital X Program'
-    url: 'https://digitalx.undp.org/frontida-records_1.html'
-
 design:
   columns: '2'
 ---
