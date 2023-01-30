@@ -34,7 +34,6 @@ item:
 
 design:
   columns: '2'
----
 
 item:
 
