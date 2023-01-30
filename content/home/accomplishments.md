@@ -35,3 +35,16 @@ item:
 design:
   columns: '2'
 ---
+
+item:
+
+  - certificate_url: https://www.edx.org](https://digitalx.undp.org/frontida-records_1.html
+    date_start: '2022-12-01'
+    description: ' Among the 100 out of 4,000 international solutions selected by UNDP to Improve Healthcare Worldwide. In association with Frontida Records.'
+    organization: United Nations Development Programme
+    icon: org-gc
+    title: 'United Nations Digital X Program'
+    url: 'https://digitalx.undp.org/frontida-records_1.html'
+
+design:
+  columns: '2'
