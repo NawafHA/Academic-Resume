@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
+items:
 
   - certificate_url: https://kgsp.kaust.edu.sa/
     date_start: '2022-06-01'
@@ -31,6 +31,15 @@ item:
     icon: org-gc
     title: 'KAUST Gifted Student Program'
     url: 'https://kgsp.kaust.edu.sa/'
+  - certificate_url: https://kgsp.kaust.edu.sa/
+    date_start: '2022-06-01'
+    description: 'A highly selective, full-tuition-and-expenses scholarship, awarded to few outstanding Saudi students.'
+    organization: kaust
+    icon: org-gc
+    title: 'KAUST Gifted Student Program'
+    url: 'https://kgsp.kaust.edu.sa/'
+    
+    
 design:
   columns: '2'
 ---
