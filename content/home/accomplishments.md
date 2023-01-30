@@ -37,7 +37,7 @@ items:
     date_start: '2022-01-01'
     description: ' Among the 100 out of 4,000 international solutions selected by UNDP to Improve Healthcare Worldwide. In association with Frontida Records.'
     organization: United Nations Development Programme
-    icon: 630478c456d6a9a3e003e9f2_logo-blue
+    icon: org-gc
     title: 'United Nations Digital X Program'
     url: 'https://digitalx.undp.org/frontida-records_1.html'
 
