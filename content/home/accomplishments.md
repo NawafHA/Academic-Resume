@@ -31,7 +31,7 @@ items:
     icon: org-gc
     title: 'KAUST Gifted Student Program'
     url: 'https://kgsp.kaust.edu.sa/'
-  - certificate_url: https://digitalx.undp.org/frontida-records_1.html/
+  - certificate_url: https://digitalx.undp.org/frontida-records_1/
     date_start: '2022-01-01'
     description: ' Among the 100 out of 4,000 international solutions selected by UNDP to Improve Healthcare Worldwide.'
     organization: United Nations Development Programme
