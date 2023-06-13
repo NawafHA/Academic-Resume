@@ -30,7 +30,7 @@ experience:
     location: Thuwal, Saudi Arabia
     date_start: '2021-06-06'
     date_end: ''
-    description: |4-
+    description: |2-
         Projects Include:
         * Advanced Frequency Comb Diagnostics
         * HCN Laser Diagnostics in Mid-Infrared
@@ -39,7 +39,7 @@ experience:
     
         
 
-- title: Visiting Researcher
+  - title: Visiting Researcher
     company: Politecnico di Milano, CoSMOS Laboratory
     company_url: ''
     company_logo: org-gc
