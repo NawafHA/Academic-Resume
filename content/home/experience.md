@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-    - title: Graduate Researcher
+  - title: Graduate Researcher
     company: KAUST, Chemical Kinetics and Laser Sensors Laboratory
     company_url: ''
     company_logo: org-gc
@@ -39,7 +39,7 @@ experience:
     
         
 
-     - title: Visiting Researcher
+- title: Visiting Researcher
     company: Politecnico di Milano, CoSMOS Laboratory
     company_url: ''
     company_logo: org-gc
