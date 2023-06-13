@@ -30,7 +30,7 @@ experience:
     location: Thuwal, Saudi Arabia
     date_start: '2021-06-06'
     date_end: ''
-    description: |2-
+    description: |4-
         Projects Include:
         * Advanced Frequency Comb Diagnostics
         * HCN Laser Diagnostics in Mid-Infrared
@@ -48,7 +48,6 @@ experience:
     date_end: ''
     description: |2-
         Projects Include:
-        
         * Developing a Dual-Comb Spectroscopy in the MIR
         
 
