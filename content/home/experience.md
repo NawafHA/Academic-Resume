@@ -22,6 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
   - title: Graduate Researcher
     company: KAUST, Chemical Kinetics and Laser Sensors Laboratory
     company_url: ''
@@ -31,9 +32,24 @@ experience:
     date_end: ''
     description: |2-
         Projects Include:
-        
-        * HCN Laser Diagnostics in Mid-Infrared
         * Advanced Frequency Comb Diagnostics
+        * HCN Laser Diagnostics in Mid-Infrared
+        * Mentorship of undergraduate interns in IR Spectroscopy
+        * Mentorship of Postdoctoral researcher in dual-comb spectroscopy 
+    
+        
+
+     - title: Visiting Researcher
+    company: Politecnico di Milano, CoSMOS Laboratory
+    company_url: ''
+    company_logo: org-gc
+    location: Lecco, Italy
+    date_start: '2023-02-03'
+    date_end: ''
+    description: |2-
+        Projects Include:
+        
+        * Developing a Dual-Comb Spectroscopy in the MIR
         
 
   - title: Undergraduate Research Assistant
