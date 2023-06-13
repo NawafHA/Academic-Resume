@@ -42,7 +42,7 @@ experience:
   - title: Visiting Researcher
     company: Politecnico di Milano, CoSMOS Laboratory
     company_url: ''
-    company_logo: org-gc
+    company_logo: polimi
     location: Lecco, Italy
     date_start: '2023-02-03'
     date_end: ''
