@@ -35,7 +35,7 @@ experience:
         Projects Include:
         * Development and demonstration of a high-speed Dual Comb Spectrometer in the Mid-IR
         * Mentorship of undergraduate interns in IR Spectroscopy
-        * Mentorship of a Postdoctoral researcher in dual-comb spectroscopy 
+        * Mentorship of Postdoctoral researcher in dual-comb spectroscopy 
     
 
   - title: Visiting Researcher
