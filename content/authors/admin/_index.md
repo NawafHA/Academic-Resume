@@ -64,8 +64,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an MSc student in Mechanical Engineering at KAUST advised Prof. Aamir Farooq at the Chemical Kinetics and Laser Sensors Laboratory. I previously did my undergraduate studies at the University of Southern California, where I worked with Prof. Costas Synolakis and Prof. George Ban-Weiss. My research interests include laser diagnostics, clean thermal energy and soft robotics. 
+I am an MS student in Mechanical Engineering at KAUST advised Prof. Aamir Farooq at the Chemical Kinetics and Laser Sensors Laboratory. Alongisde my work at KAUST, I primarily conducted my thesis at the National Research Council of Italy's Institute of Photonics and Nanotechnologies (CNR-IFN). I previously did my undergraduate studies at the University of Southern California, where I worked with Prof. Costas Synolakis and Prof. George Ban-Weiss. My research interests include laser diagnostics, optoelectronics, and atmospheric chemistry. 
 
-At KAUST and USC, I’ve worked on spectroscopy research involving advanced laser diagnostics (paper accepted as oral in PROCI 2022), low-pressure stainless steel shocktube combustion, and the development of novel soft robotics. I have also worked on CFD and hyperelastic simulations in ANSYS and Solidworks.
-
+At KAUST and the National Research Council of Italy, I’ve worked on developing high-speed Dual Comb Spectroscopy in the Mid-IR, laser diagnostics for HCN in the mid-IR (paper accepted as oral in PROCI 2022), and low-pressure stainless steel shocktube combustion.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
