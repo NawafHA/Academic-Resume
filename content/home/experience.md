@@ -37,7 +37,19 @@ experience:
         * Mentorship of undergraduate interns in IR Spectroscopy
         * Mentorship of Postdoctoral researcher in dual-comb spectroscopy 
     
-        
+  - title: Graduate Researcher
+    company: KAUST, Chemical Kinetics and Laser Sensors Laboratory
+    company_url: ''
+    company_logo: org-gc
+    location: Thuwal, Saudi Arabia
+    date_start: '2021-06-06'
+    date_end: ''
+    description: |2-
+        Projects Include:
+        * Advanced Frequency Comb Diagnostics
+        * HCN Laser Diagnostics in Mid-Infrared
+        * Mentorship of undergraduate interns in IR Spectroscopy
+        * Mentorship of Postdoctoral researcher in dual-comb spectroscopy 
 
   - title: Visiting Researcher
     company: Politecnico di Milano, CoSMOS Laboratory
