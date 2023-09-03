@@ -29,7 +29,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Thuwal, Saudi Arabia
-    date_start: '2022-08-027'
+    date_start: '2022-08-27'
     date_end: ''
     description: |2-
         Projects Include:
