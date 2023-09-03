@@ -23,44 +23,31 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+
   - title: Graduate Researcher
     company: KAUST, Chemical Kinetics and Laser Sensors Laboratory
     company_url: ''
     company_logo: org-gc
     location: Thuwal, Saudi Arabia
-    date_start: '2021-06-06'
+    date_start: '2022-08-027'
     date_end: ''
     description: |2-
         Projects Include:
-        * Advanced Frequency Comb Diagnostics
-        * HCN Laser Diagnostics in Mid-Infrared
+        * Development and demonstration of a high-speed Dual Comb Spectrometer in the Mid-IR
         * Mentorship of undergraduate interns in IR Spectroscopy
-        * Mentorship of Postdoctoral researcher in dual-comb spectroscopy 
+        * Mentorship of a Postdoctoral researcher in dual-comb spectroscopy 
     
-  - title: Graduate Researcher
-    company: KAUST, Chemical Kinetics and Laser Sensors Laboratory
-    company_url: ''
-    company_logo: org-gc
-    location: Thuwal, Saudi Arabia
-    date_start: '2021-06-06'
-    date_end: ''
-    description: |2-
-        Projects Include:
-        * Advanced Frequency Comb Diagnostics
-        * HCN Laser Diagnostics in Mid-Infrared
-        * Mentorship of undergraduate interns in IR Spectroscopy
-        * Mentorship of Postdoctoral researcher in dual-comb spectroscopy 
 
   - title: Visiting Researcher
-    company: Politecnico di Milano, CoSMOS Laboratory
+    company: CNR-IFN / Politecnico di Milano, CoSMOS Laboratory
     company_url: ''
     company_logo: polimi
     location: Lecco, Italy
     date_start: '2023-02-03'
-    date_end: ''
+    date_end: '2023-06-29'
     description: |2-
         Projects Include:
-        * Developing a Dual-Comb Spectroscopy in the MIR
+        * Development and demonstration of a high-speed Dual Comb Spectrometer in the Mid-IR
         
 
   - title: Undergraduate Research Assistant
