@@ -32,11 +32,11 @@ experience:
     date_end: ''
     description: |2-
         Projects Include:
-    
               * High-speed Dual Comb Spectroscopy in the Mid-IR
               * HCN Laser Diagnostics in Mid-Infrared
               * Mentorship of undergraduate interns in IR Spectroscopy
-              * Mentorship of a Postdoctoral researcher in dual-comb spectroscopy 
+              * Mentorship of a Postdoctoral researcher in dual-comb spectroscopy
+    
   - title: Visiting Researcher
     company: CNR-IFN / Politecnico di Milano, CoSMOS Laboratory
     company_url: ''
