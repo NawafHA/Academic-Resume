@@ -35,7 +35,7 @@ experience:
         Projects Include:
         * Development and demonstration of a high-speed Dual Comb Spectrometer in the Mid-IR
         * Mentorship of undergraduate interns in IR Spectroscopy
-        * Mentorship of Postdoctoral researcher in dual-comb spectroscopy 
+        * Mentorship of a postdoctoral researcher in dual-comb spectroscopy 
     
 
   - title: Visiting Researcher
@@ -48,8 +48,20 @@ experience:
     description: |2-
         Projects Include:
         * Development and demonstration of a high-speed Dual Comb Spectrometer in the Mid-IR
+    
+  - title: Undergraduate Research Assistant
+    company: University of Tokyo
+    company_url: ''
+    company_logo: today
+    location: Tokyo, Japan
+    date_start: '2021-05-06'
+    date_end: '2021-07-06'
+    description: |2-
+        Projects Include:
         
-
+        * Examined and analyzed the required performance of carbon fiber reinforced thermoplastics (CFRP) as a sustainable solution for high   demand.
+        * Liaised with industry professionals and graduate researchers to garner experience with developments of CFRP in the automobile industry.
+    
   - title: Undergraduate Research Assistant
     company: The University of Southern California
     company_url: ''
@@ -75,21 +87,6 @@ experience:
           structural engineering applications.
         * Produced a convoluDonal neural network algorithm as a means to detect crack pixels on a large dataset of cracked pavement which
           outperformed previous algorithms by over 60 percent.
-
-    
-  - title: Undergraduate Research Assistant
-    company: University of Tokyo
-    company_url: ''
-    company_logo: today
-    location: Tokyo, Japan
-    date_start: '2021-05-06'
-    date_end: '2021-07-06'
-    description: |2-
-        Projects Include:
-        
-        * Examined and analyzed the required performance of carbon fiber reinforced thermoplastics (CFRP) as a sustainable solution for high   demand.
-        * Liaised with industry professionals and graduate researchers to garner experience with developments of CFRP in the automobile industry.
-
 
 design:
   columns: '2'
