@@ -32,11 +32,12 @@ experience:
     date_end: ''
     description: |2-
         Projects Include:
-        * High-speed Dual Comb Spectroscopy in the Mid-IR
-        * HCN Laser Diagnostics in Mid-Infrared
-        * Mentorship of undergraduate interns in IR Spectroscopy
-        * Mentorship of a Postdoctoral researcher in dual-comb spectroscopy 
     
+              * High-speed Dual Comb Spectroscopy in the Mid-IR
+              * HCN Laser Diagnostics in Mid-Infrared
+              * Mentorship of undergraduate interns in IR Spectroscopy
+              * Mentorship of a Postdoctoral researcher in dual-comb spectroscopy 
+      
 
   - title: Visiting Researcher
     company: CNR-IFN / Politecnico di Milano, CoSMOS Laboratory
@@ -47,6 +48,7 @@ experience:
     date_end: '2023-07-30'
     description: |2-
         Projects Include:
+      
         * Developing a Dual-Comb Spectroscopy in the MIR
 
     - title: Undergraduate Researcher
@@ -58,8 +60,9 @@ experience:
     date_end: '2021-08-15'
     description: |2-
         Projects Include:
-        * HCN Laser Diagnostics in Mid-Infrared
         
+          * HCN Laser Diagnostics in Mid-Infrared
+          
  - title: Undergraduate Research Assistant
     company: University of Tokyo
     company_url: ''
