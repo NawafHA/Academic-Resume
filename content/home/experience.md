@@ -49,7 +49,7 @@ experience:
       
         * Developing a Dual-Comb Spectroscopy in the MIR
 
- - title: Undergraduate Researcher
+  - title: Undergraduate Researcher
     company: KAUST, Chemical Kinetics and Laser Sensors Laboratory
     company_url: ''
     company_logo: org-gc
