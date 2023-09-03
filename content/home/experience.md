@@ -37,8 +37,6 @@ experience:
               * HCN Laser Diagnostics in Mid-Infrared
               * Mentorship of undergraduate interns in IR Spectroscopy
               * Mentorship of a Postdoctoral researcher in dual-comb spectroscopy 
-      
-
   - title: Visiting Researcher
     company: CNR-IFN / Politecnico di Milano, CoSMOS Laboratory
     company_url: ''
@@ -51,7 +49,7 @@ experience:
       
         * Developing a Dual-Comb Spectroscopy in the MIR
 
-    - title: Undergraduate Researcher
+ - title: Undergraduate Researcher
     company: KAUST, Chemical Kinetics and Laser Sensors Laboratory
     company_url: ''
     company_logo: org-gc
