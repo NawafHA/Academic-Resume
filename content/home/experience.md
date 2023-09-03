@@ -28,52 +28,29 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Thuwal, Saudi Arabia
-    date_start: '2022-08-06'
+    date_start: '2021-06-06'
     date_end: ''
     description: |2-
         Projects Include:
-              * High-speed Dual Comb Spectroscopy in the Mid-IR
-              * HCN Laser Diagnostics in Mid-Infrared
-              * Mentorship of undergraduate interns in IR Spectroscopy
-              * Mentorship of a Postdoctoral researcher in dual-comb spectroscopy
+        * Advanced Frequency Comb Diagnostics
+        * HCN Laser Diagnostics in Mid-Infrared
+        * Mentorship of undergraduate interns in IR Spectroscopy
+        * Mentorship of Postdoctoral researcher in dual-comb spectroscopy 
     
+        
+
   - title: Visiting Researcher
-    company: CNR-IFN / Politecnico di Milano, CoSMOS Laboratory
+    company: Politecnico di Milano, CoSMOS Laboratory
     company_url: ''
     company_logo: polimi
     location: Lecco, Italy
     date_start: '2023-02-03'
-    date_end: '2023-07-30'
+    date_end: ''
     description: |2-
         Projects Include:
-      
         * Developing a Dual-Comb Spectroscopy in the MIR
+        
 
-  - title: Undergraduate Researcher
-    company: KAUST, Chemical Kinetics and Laser Sensors Laboratory
-    company_url: ''
-    company_logo: org-gc
-    location: Thuwal, Saudi Arabia
-    date_start: '2021-06-06'
-    date_end: '2021-08-15'
-    description: |2-
-        Projects Include:
-        
-          * HCN Laser Diagnostics in Mid-Infrared
-          
- - title: Undergraduate Research Assistant
-    company: University of Tokyo
-    company_url: ''
-    company_logo: today
-    location: Tokyo, Japan
-    date_start: '2021-05-06'
-    date_end: '2021-06-06'
-    description: |2-
-        Projects Include:
-        
-        * Examined and analyzed the required performance of carbon fiber reinforced thermoplastics (CFRP) as a sustainable solution for high   demand.
-        * Liaised with industry professionals and graduate researchers to garner experience with developments of CFRP in the automobile industry.
-   
   - title: Undergraduate Research Assistant
     company: The University of Southern California
     company_url: ''
@@ -101,7 +78,18 @@ experience:
           outperformed previous algorithms by over 60 percent.
 
     
- 
+  - title: Undergraduate Research Assistant
+    company: University of Tokyo
+    company_url: ''
+    company_logo: today
+    location: Tokyo, Japan
+    date_start: '2021-05-06'
+    date_end: '2021-07-06'
+    description: |2-
+        Projects Include:
+        
+        * Examined and analyzed the required performance of carbon fiber reinforced thermoplastics (CFRP) as a sustainable solution for high   demand.
+        * Liaised with industry professionals and graduate researchers to garner experience with developments of CFRP in the automobile industry.
 
 
 design:
